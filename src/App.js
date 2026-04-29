@@ -1,1 +1,1 @@
-export default function App() { return <Text>Login Viejo</Text>; }
+export default function App() {return <Text style={colot:'blue'}>Login Viejo</Text<}
