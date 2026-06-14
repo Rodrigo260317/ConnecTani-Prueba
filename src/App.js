@@ -1,1 +1,1 @@
-export default function App() { return <Text>Iniciar Sesion</Text>; }
+export default function App() { return <Text style={color:'blue'}>Iniciar Sesion</Text>; }
